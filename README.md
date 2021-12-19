@@ -6,7 +6,7 @@ I'm Carl Castañas😉, Front-End Web Developer 👨🏻‍💻 from Philippines
 
 ### How to reach me: 
 <a href="mailto: carlandrewcastanas55@gmail.com">
-<img src="https://img.shields.io/badge/-carlandrewcastanas55%40gmail.com-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a>  <a  href="https://www.instagram.com/billpwchan/">   <img src="https://img.shields.io/badge/@carlcastanas-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>  <a href="https://www.linkedin.com/in/carlcastanas/"><img src="https://img.shields.io/badge/carlcastanas-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>  <a  href="https://www.carlcastanas.netlify.app/"><img src="https://img.shields.io/badge/carlcastanas.github.io-%2312100E.svg?&style=for-the-badge&logo=safari&logoColor=white"></a>
+<img src="https://img.shields.io/badge/-carlandrewcastanas55%40gmail.com-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a>  <a  href="https://www.instagram.com/carlcastanas/">   <img src="https://img.shields.io/badge/@carlcastanas-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>  <a href="https://www.linkedin.com/in/carlcastanas/"><img src="https://img.shields.io/badge/carlcastanas-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>  <a  href="https://www.carlcastanas.netlify.app/"><img src="https://img.shields.io/badge/carlcastanas.github.io-%2312100E.svg?&style=for-the-badge&logo=safari&logoColor=white"></a>
 
 ### Current Status Quo:
 
