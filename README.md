@@ -4,6 +4,9 @@ I'm Carl Castañas😉, Front-End Web Developer 👨🏻‍💻 from Philippines
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=I'm+Carl+Casta%C3%B1as%2C+20+years+old;Front-end+Web+Developer;Cyber+Security+Specialist)](https://git.io/typing-svg)
 
+[![](https://img.shields.io/badge/Gmail-rptramirez19@gmail.com-red)](mailto:carlandrewcastanas55@gmail.com) [![](https://img.shields.io/badge/Linkedin-Ronald%20Paolo%20Ramirez-blue)](https://www.linkedin.com/in/carlcastanas/)
+ <img src="https://komarev.com/ghpvc/?username=your-github-carlcastanas&style=flat-square" alt="Carl Castanas" /> 
+
 ### How to reach me: 
 <a href="mailto: carlandrewcastanas55@gmail.com">
 <img src="https://img.shields.io/badge/-carlandrewcastanas55%40gmail.com-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a>  <a  href="https://www.instagram.com/carlcastanas/">   <img src="https://img.shields.io/badge/@carlcastanas-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>  <a href="https://www.linkedin.com/in/carlcastanas/"><img src="https://img.shields.io/badge/carlcastanas-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>  <a  href="https://www.carlcastanas.netlify.app/"><img src="https://img.shields.io/badge/carlcastanas.github.io-%2312100E.svg?&style=for-the-badge&logo=safari&logoColor=white"></a>
