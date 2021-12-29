@@ -13,7 +13,7 @@ I'm Carl Castañas😉, Front-End Web Developer 👨🏻‍💻 from Philippines
 
 ### Current Status Quo:
 
-- 💼 I’m pursuing a <strong>Bachelor of Science in Information Technology</strong>.
+- 💼 4th year <strong>Bachelor of Science in Information Technology</strong>.
 - 🔍 I’m looking for career opportunities in the <strong>Web Development</strong> Industry.
 - 💬 Feel free to discuss with me about <strong>Cyber Security, Web Development, NFT Projects</strong>
 - 👀 See my [Personal Portfolio](https://carlcastanas.github.io/portfolio/) to get more info
